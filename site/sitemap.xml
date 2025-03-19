@@ -4,4 +4,12 @@
          <loc>https://mydomain.org/mysite/</loc>
          <lastmod>2025-03-19</lastmod>
     </url>
+    <url>
+         <loc>https://mydomain.org/mysite/infrastructure/</loc>
+         <lastmod>2025-03-19</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/moodule/</loc>
+         <lastmod>2025-03-19</lastmod>
+    </url>
 </urlset>
