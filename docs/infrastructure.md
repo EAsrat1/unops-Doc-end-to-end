@@ -1,1 +1,0 @@
-## Ethio- Telecom infrstructure information
