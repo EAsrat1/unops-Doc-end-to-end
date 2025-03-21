@@ -1,1 +1,1 @@
-## HIghlevel infrastructure Design (HLD) will be kept here
+## High=level infrastructure Design (HLD) will be kept here
