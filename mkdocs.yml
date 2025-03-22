@@ -8,3 +8,23 @@ theme:
     - navigation.instant.preview
     - navigation.tracking
     - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+
+nav:
+    - Home: index.md
+    - HID: 
+        - Architecture Blueprint: HID\Architecture Blueprint.md
+        - Optimization: HID\Optimization.md
+        - Resilience Planning: HID\Resilience planning.md
+        - System Blueprint: HID\System Blueprint.md
+
+    - Architecture: 
+        - Topology: Architecture\Network Topology.md
+        - Segementation: Architecture\Network Segmentation.md
+        - Security Policy: Architecture\Security Policy.md
+
+    - Requirements: 
+        - Business and Technical: Requirement\Business and Technical.md
+        - Critical Safeguards: Requirement\Critical Safeguards.md
+        - Usage Insights: Requirement\Usage Insight.md
