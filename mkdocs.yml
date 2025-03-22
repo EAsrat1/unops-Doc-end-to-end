@@ -1,5 +1,5 @@
 site_name: My Docs
-site_url: https://mydomain.org/mysite
+site_url: https://github.com/EAsrat1/unops-Doc-end-to-end/
 theme:
   name: material
   features:
@@ -27,4 +27,4 @@ nav:
     - Requirements: 
         - Business and Technical: Requirement\Business and Technical.md
         - Critical Safeguards: Requirement\Critical Safeguards.md
-        - Usage Insights: Requirement\Usage Insight.md
+        - Usage Insights: Requirement\Usage-Insight
