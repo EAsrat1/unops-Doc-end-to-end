@@ -2,14 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://mydomain.org/mysite/</loc>
-         <lastmod>2025-03-19</lastmod>
+         <lastmod>2025-03-22</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/infrastructure/</loc>
-         <lastmod>2025-03-19</lastmod>
+         <loc>https://mydomain.org/mysite/Architecture/Network%20Segmentation/</loc>
+         <lastmod>2025-03-22</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/moodule/</loc>
-         <lastmod>2025-03-19</lastmod>
+         <loc>https://mydomain.org/mysite/Architecture/Network%20Topology/</loc>
+         <lastmod>2025-03-22</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/Architecture/Security%20Policy/</loc>
+         <lastmod>2025-03-22</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/HID/Architecture%20Blueprint/</loc>
+         <lastmod>2025-03-22</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/HID/Optimization/</loc>
+         <lastmod>2025-03-22</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/HID/Resilience%20planning/</loc>
+         <lastmod>2025-03-22</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/HID/System%20Blueprint/</loc>
+         <lastmod>2025-03-22</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/Requirement/Business%20and%20Technical/</loc>
+         <lastmod>2025-03-22</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/Requirement/Critical%20Safeguards/</loc>
+         <lastmod>2025-03-22</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/Requirement/Usage%20Insight/</loc>
+         <lastmod>2025-03-22</lastmod>
     </url>
 </urlset>
