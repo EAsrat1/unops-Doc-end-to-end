@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://easrat1.github.io/unops-Doc-end-to-end/</loc>
-         <lastmod>2025-03-22</lastmod>
+         <loc>https://mydomain.org/mysite/</loc>
+         <lastmod>2025-03-24</lastmod>
     </url>
     <url>
-         <loc>https://easrat1.github.io/unops-Doc-end-to-end/Architecture/Network%20Segmentation/</loc>
-         <lastmod>2025-03-22</lastmod>
+         <loc>https://mydomain.org/mysite/Architecture/Network-Segmentation/</loc>
+         <lastmod>2025-03-24</lastmod>
     </url>
     <url>
-         <loc>https://easrat1.github.io/unops-Doc-end-to-end/Architecture/Network%20Topology/</loc>
-         <lastmod>2025-03-22</lastmod>
+         <loc>https://mydomain.org/mysite/Architecture/Network-Topology/</loc>
+         <lastmod>2025-03-24</lastmod>
     </url>
     <url>
-         <loc>https://easrat1.github.io/unops-Doc-end-to-end/Architecture/Security%20Policy/</loc>
-         <lastmod>2025-03-22</lastmod>
+         <loc>https://mydomain.org/mysite/Architecture/Security-Policy/</loc>
+         <lastmod>2025-03-24</lastmod>
     </url>
     <url>
-         <loc>https://easrat1.github.io/unops-Doc-end-to-end/HID/Architecture%20Blueprint/</loc>
-         <lastmod>2025-03-22</lastmod>
+         <loc>https://mydomain.org/mysite/HID/Architecture-Blueprint/</loc>
+         <lastmod>2025-03-24</lastmod>
     </url>
     <url>
-         <loc>https://easrat1.github.io/unops-Doc-end-to-end/HID/Optimization/</loc>
-         <lastmod>2025-03-22</lastmod>
+         <loc>https://mydomain.org/mysite/HID/Optimization/</loc>
+         <lastmod>2025-03-24</lastmod>
     </url>
     <url>
-         <loc>https://easrat1.github.io/unops-Doc-end-to-end/HID/Resilience%20planning/</loc>
-         <lastmod>2025-03-22</lastmod>
+         <loc>https://mydomain.org/mysite/HID/Resilience-planning/</loc>
+         <lastmod>2025-03-24</lastmod>
     </url>
     <url>
-         <loc>https://easrat1.github.io/unops-Doc-end-to-end/HID/System%20Blueprint/</loc>
-         <lastmod>2025-03-22</lastmod>
+         <loc>https://mydomain.org/mysite/HID/System-Blueprint/</loc>
+         <lastmod>2025-03-24</lastmod>
     </url>
     <url>
-         <loc>https://easrat1.github.io/unops-Doc-end-to-end/Requirement/Business%20and%20Technical/</loc>
-         <lastmod>2025-03-22</lastmod>
+         <loc>https://mydomain.org/mysite/Requirement/Business-and-Technical/</loc>
+         <lastmod>2025-03-24</lastmod>
     </url>
     <url>
-         <loc>https://easrat1.github.io/unops-Doc-end-to-end/Requirement/Critical%20Safeguards/</loc>
-         <lastmod>2025-03-22</lastmod>
+         <loc>https://mydomain.org/mysite/Requirement/Critical-Safeguards/</loc>
+         <lastmod>2025-03-24</lastmod>
     </url>
     <url>
-         <loc>https://easrat1.github.io/unops-Doc-end-to-end/Requirement/Usage-Insight/</loc>
-         <lastmod>2025-03-22</lastmod>
+         <loc>https://mydomain.org/mysite/Requirement/Usage-Insight/</loc>
+         <lastmod>2025-03-24</lastmod>
     </url>
 </urlset>
