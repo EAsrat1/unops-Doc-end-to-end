@@ -1,7 +1,10 @@
-site_name: UNOPS Test Software Documentation
+site_name: Test Software Documentation
 site_url: https://mydomain.org/mysite
 theme:
   name: material
+  logo: assets/images/unops-favicon.png
+  favicon: assets/images/unops-favicon.png
+
   features:
     - navigation.instant
     - navigation.instant.progress
@@ -26,3 +29,6 @@ nav:
       - Business and Technical: Requirement/Business-and-Technical.md
       - Critical Safeguards: Requirement/Critical-Safeguards.md
       - Usage Insights: Requirement/Usage-Insight.md
+extra:
+  favicon: assets/images/unops-favicon.png
+
