@@ -598,6 +598,8 @@
       <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
       
       
+        
+      
       
         <label class="md-nav__link md-nav__link--active" for="__toc">
           
@@ -628,6 +630,8 @@
   
   
   
+    
+  
   
     <label class="md-nav__title" for="__toc">
       <span class="md-nav__icon md-icon"></span>
@@ -636,9 +640,27 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#business-and-technical-requirements" class="md-nav__link">
+  <a href="#development-environment-required-resources" class="md-nav__link">
     <span class="md-ellipsis">
-      Business and Technical requirements
+      Development Environment Required Resources
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#production-ready-test-environment-requirements" class="md-nav__link">
+    <span class="md-ellipsis">
+      Production-Ready Test Environment Requirements
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#production-environment-requirements" class="md-nav__link">
+    <span class="md-ellipsis">
+      Production Environment Requirements
     </span>
   </a>
   
@@ -721,6 +743,8 @@
   
   
   
+    
+  
   
     <label class="md-nav__title" for="__toc">
       <span class="md-nav__icon md-icon"></span>
@@ -729,9 +753,27 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#business-and-technical-requirements" class="md-nav__link">
+  <a href="#development-environment-required-resources" class="md-nav__link">
     <span class="md-ellipsis">
-      Business and Technical requirements
+      Development Environment Required Resources
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#production-ready-test-environment-requirements" class="md-nav__link">
+    <span class="md-ellipsis">
+      Production-Ready Test Environment Requirements
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#production-environment-requirements" class="md-nav__link">
+    <span class="md-ellipsis">
+      Production Environment Requirements
     </span>
   </a>
   
@@ -753,10 +795,52 @@
 
 
 
-  <h1>Business and Technical</h1>
-
-<h2 id="business-and-technical-requirements">Business and Technical requirements</h2>
-<p>Identified business and technical needs.</p>
+<h1 id="business-and-technical-requirements">Business and Technical requirements</h1>
+<h2 id="development-environment-required-resources">Development Environment Required Resources</h2>
+<p>To complete the development tasks, the following resources will be required:</p>
+<p>The development resources are permanent and are required not only for the initial development and testing phases but also for ongoing maintenance. These resources will support future upgrades, patching, troubleshooting, and continuous improvement efforts, ensuring the environment remains robust, secure, and aligned with evolving business requirements. Additionally, they will facilitate the development of new features, integration testing, and performance optimization over time</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Quantity</th>
+<th>Specification</th>
+<th>OS</th>
+<th>Note</th>
+<th>Storage</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>Moodle application server</code></td>
+<td>:3</td>
+<td>:8vCPUS</td>
+<td>32GB</td>
+<td>:Ubuntu-22004</td>
+<td></td>
+</tr>
+<tr>
+<td><code>Database Server ( Service)</code></td>
+<td>:2</td>
+<td>:min 16vCore</td>
+<td>128GB</td>
+<td></td>
+<td>:u7i</td>
+</tr>
+<tr>
+<td><code>JumpBox/Ansible server</code></td>
+<td>:2</td>
+<td>:16 vCPUs</td>
+<td>64GB</td>
+<td>:MySQL 8.0.28</td>
+<td>:1 R/W and1 R-Only</td>
+</tr>
+</tbody>
+</table>
+<h2 id="production-ready-test-environment-requirements">Production-Ready Test Environment Requirements</h2>
+<p>The following resources are needed for a duration of two months and will be decommissioned once the production-ready environment testing is completed.</p>
+<h2 id="production-environment-requirements">Production Environment Requirements</h2>
+<p>The production environment resources are fully utilized during exam (peak) periods, while certain resources can be scaled down or decommissioned during idle times to optimize costs and efficiency.</p>
 
 
 

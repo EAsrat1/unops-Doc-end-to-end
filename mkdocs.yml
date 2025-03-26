@@ -32,3 +32,5 @@ nav:
 extra:
   favicon: assets/images/unops-favicon.png
 
+markdown_extensions:
+  - tables
