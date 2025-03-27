@@ -813,30 +813,71 @@
 <tbody>
 <tr>
 <td><code>Moodle application server</code></td>
-<td>:3</td>
+<td>3</td>
 <td>:8vCPUS</td>
 <td>32GB</td>
 <td>:Ubuntu-22004</td>
 <td></td>
 </tr>
 <tr>
-<td><code>Database Server ( Service)</code></td>
-<td>:2</td>
+<td><code>Catching Service</code></td>
+<td>1</td>
 <td>:min 16vCore</td>
 <td>128GB</td>
 <td></td>
-<td>:u7i</td>
+<td>u7i</td>
+</tr>
+<tr>
+<td><code>Database Server ( Service)</code></td>
+<td>2</td>
+<td>16vCore</td>
+<td>64GB</td>
+<td>MySQL 8.0.28</td>
+<td>1 R/W and 1 R-Only</td>
 </tr>
 <tr>
 <td><code>JumpBox/Ansible server</code></td>
-<td>:2</td>
-<td>:16 vCPUs</td>
-<td>64GB</td>
-<td>:MySQL 8.0.28</td>
-<td>:1 R/W and1 R-Only</td>
+<td>1</td>
+<td>:8vCPUS</td>
+<td>32GB</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><code>Elastic IP</code></td>
+<td>5</td>
+<td>1000 Mbits/s    dedicated band width</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><code>Elastic Load Balancer</code></td>
+<td>1</td>
+<td>10 Bandwidth size</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><code>Domain Name and signed certificate</code></td>
+<td></td>
+<td></td>
+<td></td>
+<td>For Each server  FQDN Name</td>
+<td></td>
+</tr>
+<tr>
+<td><code>WAF</code></td>
+<td>1</td>
+<td>WI-500</td>
+<td>waf.8u16g</td>
+<td>8 vCPUs</td>
+<td>16 GB</td>
 </tr>
 </tbody>
 </table>
+<p>Note: Do we have a CLI (KooCLI) software that we can access using the command line interface  and REST API.</p>
 <h2 id="production-ready-test-environment-requirements">Production-Ready Test Environment Requirements</h2>
 <p>The following resources are needed for a duration of two months and will be decommissioned once the production-ready environment testing is completed.</p>
 <h2 id="production-environment-requirements">Production Environment Requirements</h2>
