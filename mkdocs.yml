@@ -16,11 +16,11 @@ theme:
 
 nav:
   - Home: index.md
-  - HID:
-      - Architecture Blueprint: HID/Architecture-Blueprint.md
-      - Optimization: HID/Optimization.md
-      - Resilience Planning: HID/Resilience-planning.md
-      - System Blueprint: HID/System-Blueprint.md
+  - HLD:
+      - Architecture Blueprint: HLD/Architecture-Blueprint.md
+      - Optimization: HLD/Optimization.md
+      - Resilience Planning: HLD/Resilience-planning.md
+      - System Blueprint: HLD/System-Blueprint.md
   - Architecture:
       - Topology: Architecture/Network-Topology.md
       - Segmentation: Architecture/Network-Segmentation.md
